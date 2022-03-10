@@ -2,4 +2,4 @@
 
 ### Simple recipe site
 
-1. First Version only with html
+1. Simple html and CSS Version
