@@ -1,0 +1,37 @@
+/*Stylesheet CSS*/
+
+* {
+    background-color: #f1f1d2;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    font-size: 80px;
+    color: black;
+}
+
+.recipeTitle {
+    font-size: 40px;
+}
+
+.imgStyle {
+    height: 300px;
+    width: 300px;
+}
+
+.sectionOne, #yellow  {
+    background-color: #ffff00;
+    
+}
+
+.sectionTwo, #blue {
+    background-color: #0000ff;
+} 
+
+.sectionThree, #red {
+    background-color: #ff0000;
+}
+
